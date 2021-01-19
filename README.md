@@ -15,5 +15,8 @@ num | title | author | year | paper rink | note rink
 6 | Relative Attributing Propagation:Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks | Woo-Jeoung Nam | AAAI2020 | [RAP](https://arxiv.org/pdf/1904.00605.pdf) | [Note](https://drive.google.com/file/d/16BTSaOOZF1RgpSyLs6Cy--Flh8sE0qQM/view?usp=sharing)
 
 
-
+----------
 ### 읽을 논문 목록
+num | title | author | year | paper rink
+---- | ---- | ---- | ---- | ---- | ----
+1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf)
