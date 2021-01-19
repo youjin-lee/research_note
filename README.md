@@ -18,6 +18,11 @@ num | title | author | year | paper rink | note rink
 ----------
 ### 읽을 논문 목록
 
+num | title | author | year | paper rink | note rink
+---- | ---- | ---- | ---- | ---- | ----
+1 | On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation | Sebastian Bach | PlosONE2015 | [LRP]
+
+
 num | title | author | year | paper rink
 ---- | ---- | ---- | ---- | ---- | ----
 1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf)
