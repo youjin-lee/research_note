@@ -21,8 +21,3 @@ num | title | author | year | paper rink | note rink
 num | title | author | year | paper rink | note rink
 ---- | ---- | ---- | ---- | ---- | ----
 1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf)
-
-
-num | title | author | year | paper rink
----- | ---- | ---- | ---- | ---- | ----
-1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf)
