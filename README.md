@@ -1,6 +1,7 @@
 # Research Note
 
-## This is for study related to Interpretable Machine Learning.
+This is for study related to Interpretable Machine Learning.
+
 
 num | title | author | year | paper rink | note rink
 ---- | ---- | ---- | ---- | ---- | ----
