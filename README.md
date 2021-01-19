@@ -20,4 +20,6 @@ num | title | author | year | paper rink | note rink
 
 num | title | author | year | paper rink | note rink
 ---- | ---- | ---- | ---- | ---- | ----
-1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf)
+1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf) | -
+2 | Learning how to explain neural networks: PatternNet and PatternAttribution | Pieter-Jan Kindermans | 2017 | [paper](https://arxiv.org/pdf/1705.05598.pdf) | -
+3 |  | | 2017 | [paper]() | -
