@@ -8,4 +8,4 @@ num | title | author | year | paper rink | note rink
 2 | 의 | 환 | 향
 3 |
 4 |
-5 | Examples are not Enough, Learn to Criticize!Criticism for Interpretability | Been Kim | NIPS2016 | [MMD](https://beenkim.github.io/papers/KIM2016NIPS_MMD.pdf) | 
+5 | Examples are not Enough, Learn to Criticize!Criticism for Interpretability | Been Kim | NIPS2016 | [MMD](https://beenkim.github.io/papers/KIM2016NIPS_MMD.pdf) | [Note](https://drive.google.com/file/d/1guMTtrhLF8H6iLMVZjUJ9i_MC7Wn7Ugw/view?usp=sharing)
