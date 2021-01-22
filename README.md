@@ -13,7 +13,7 @@ num | title | author | year | paper rink | note rink
 4 | "Why Should I Trust You?": Explaining the Predictions of Any Classifier | Marco Tulio Ribeiro | 2016 | [LIME](https://arxiv.org/pdf/1602.04938.pdf) | [Note](https://drive.google.com/file/d/1K_koIvaUdy2d2c1RMb2En5g3-N-hREzJ/view?usp=sharing)
 5 | Examples are not Enough, Learn to Criticize!Criticism for Interpretability | Been Kim | NIPS2016 | [MMD](https://beenkim.github.io/papers/KIM2016NIPS_MMD.pdf) | [Note](https://drive.google.com/file/d/1guMTtrhLF8H6iLMVZjUJ9i_MC7Wn7Ugw/view?usp=sharing)
 6 | Relative Attributing Propagation:Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks | Woo-Jeoung Nam | AAAI2020 | [RAP](https://arxiv.org/pdf/1904.00605.pdf) | [Note](https://drive.google.com/file/d/16BTSaOOZF1RgpSyLs6Cy--Flh8sE0qQM/view?usp=sharing)
-7 | Learning how to explain neural networks: PatternNet and PatternAttribution | Pieter-Jan Kindermans | 2017 | [paper](https://arxiv.org/pdf/1705.05598.pdf) | [note](https://drive.google.com/file/d/1AH48eO8hOZOoKYAd_cnxJDHHaWjmql9_/view?usp=sharing)
+7 | Learning how to explain neural networks: PatternNet and PatternAttribution | Pieter-Jan Kindermans | 2017 | [paper](https://arxiv.org/pdf/1705.05598.pdf) | [Note](https://drive.google.com/file/d/1AH48eO8hOZOoKYAd_cnxJDHHaWjmql9_/view?usp=sharing)
 
 
 ----------
