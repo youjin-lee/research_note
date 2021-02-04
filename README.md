@@ -21,13 +21,15 @@ num | title | author | year | paper rink | note rink
 
 num | title | author | year | paper rink | note rink
 ---- | ---- | ---- | ---- | ---- | ----
-1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf) | -
-2 | iNNvestigate Neural Networks! | Maximilian Alber | JMLR 2019 | [paper](https://jmlr.org/papers/v20/18-540.html) | -
-3 | Towards better understanding of gradient-based attribution methods for Deep Neural Networks | Marco Ancona | ICLR 2018 | [paper](https://openreview.net/forum?id=Sy21R9JAW) | -
-4 | How to Explain Individual Classification Decisions | David Baehrens | JMLR 2010 | [paper](https://www.jmlr.org/papers/volume11/baehrens10a/baehrens10a.pdf) | -
-5 | Real Time Image Saliency for Black Box Classifiers | Piotr Dabkowski | NIPS 2017 | [paper](https://proceedings.neurips.cc/paper/2017/hash/0060ef47b12160b9198302ebdb144dcf-Abstract.html) | -
-6 | Input Switched Affine Networks: An RNN Architecture Designed for Interpretability | Jakob N. Foerster | ICMR 2017 | [paper](http://proceedings.mlr.press/v70/foerster17a.html) | -
-7 | A Unified Approach to Interpreting Model Predictions | Scott M. Lundberg | NIPS 2017 | [paper](https://arxiv.org/abs/1705.07874) | -
-8 | Axiomatic Attribution for Deep Networks | Mukund Sundararajan | ICML 2017 | [paper](http://proceedings.mlr.press/v70/sundararajan17a.html) | -
-9 | Interpreting Deep Visual Representations via Network Dissection | Bolei Zhou | IEEE-TPAMI 2019 | [paper](https://arxiv.org/abs/1711.05611) | -
-10 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+1 | Towards better understanding of gradient-based attribution methods for Deep Neural Networks | Marco Ancona | ICLR 2018 | [paper](https://openreview.net/forum?id=Sy21R9JAW) | -
+2 | Real Time Image Saliency for Black Box Classifiers | Piotr Dabkowski | NIPS 2017 | [paper](https://proceedings.neurips.cc/paper/2017/hash/0060ef47b12160b9198302ebdb144dcf-Abstract.html) | -
+3 | Input Switched Affine Networks: An RNN Architecture Designed for Interpretability | Jakob N. Foerster | ICML 2017 | [paper](http://proceedings.mlr.press/v70/foerster17a.html) | -
+4 | A Unified Approach to Interpreting Model Predictions | Scott M. Lundberg | NIPS 2017 | [paper](https://arxiv.org/abs/1705.07874) | -
+5 | Axiomatic Attribution for Deep Networks | Mukund Sundararajan | ICML 2017 | [paper](http://proceedings.mlr.press/v70/sundararajan17a.html) | -
+
+
+9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
