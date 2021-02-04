@@ -26,10 +26,18 @@ num | title | author | year | paper rink | note rink
 3 | Input Switched Affine Networks: An RNN Architecture Designed for Interpretability | Jakob N. Foerster | ICML 2017 | [paper](http://proceedings.mlr.press/v70/foerster17a.html) | -
 4 | A Unified Approach to Interpreting Model Predictions | Scott M. Lundberg | NIPS 2017 | [paper](https://arxiv.org/abs/1705.07874) | -
 5 | Axiomatic Attribution for Deep Networks | Mukund Sundararajan | ICML 2017 | [paper](http://proceedings.mlr.press/v70/sundararajan17a.html) | -
+6 | Understanding Black-box Predictions via Influence Functions | Pang Wei Koh | ICML 2017 | [paper](http://proceedings.mlr.press/v70/koh17a.html) | -
+7 | Learning to Segment Object Candidates | Pedro O. O. Pinheiro | NIPS 2015 | [paper](https://scholar.google.com/citations?user=BU6f7L4AAAAJ&hl=en) | -
+8 | Network Dissection: Quantifying Interpretability of Deep Visual Representations | David Bau | CVPR 2017 | [paper](https://arxiv.org/abs/1704.05796) | -
+9 | GAN Dissection: Visualizing and Understanding Generative Adversarial Networks | David Bau | ICLR 2019 | [paper](https://arxiv.org/abs/1811.10597) | -
 
 
-9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-9 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+10 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+11 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+12 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+13 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+14 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+15 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+16 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+17 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+18 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
