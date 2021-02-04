@@ -27,22 +27,7 @@ num | title | author | year | paper rink | note rink
 4 | How to Explain Individual Classification Decisions | David Baehrens | JMLR 2010 | [paper](https://www.jmlr.org/papers/volume11/baehrens10a/baehrens10a.pdf) | -
 5 | Real Time Image Saliency for Black Box Classifiers | Piotr Dabkowski | NIPS 2017 | [paper](https://proceedings.neurips.cc/paper/2017/hash/0060ef47b12160b9198302ebdb144dcf-Abstract.html) | -
 6 | Input Switched Affine Networks: An RNN Architecture Designed for Interpretability | Jakob N. Foerster | ICMR 2017 | [paper](http://proceedings.mlr.press/v70/foerster17a.html) | -
-7 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-8 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-9 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+7 | A Unified Approach to Interpreting Model Predictions | Scott M. Lundberg | NIPS 2017 | [paper](https://arxiv.org/abs/1705.07874) | -
+8 | Axiomatic Attribution for Deep Networks | Mukund Sundararajan | ICML 2017 | [paper](http://proceedings.mlr.press/v70/sundararajan17a.html) | -
+9 | Interpreting Deep Visual Representations via Network Dissection | Bolei Zhou | IEEE-TPAMI 2019 | [paper](https://arxiv.org/abs/1711.05611) | -
 10 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-11 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-12 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-13 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-14 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-15 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-16 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-17 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-18 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-19 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-20 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-21 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-22 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-23 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-24 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
-25 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
