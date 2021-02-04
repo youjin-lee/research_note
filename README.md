@@ -43,12 +43,15 @@ num | title | author | year | paper rink | note rink
 20 | Cost-Effective Interactive Attention Learning with Neural Attention Processes | Jay Heo | ICML 2020 | [paper](https://arxiv.org/abs/2006.05419) | -
 21 | Neural Machine Translation by Jointly Learning to Align and Translate | Dzmitry Bahdanau | ICLR 2015 | [paper](https://arxiv.org/abs/1409.0473) | -
 22 | Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning | Yarin Gal | ICML 2016 | [paper](https://arxiv.org/abs/1506.02142) | -
+23 | Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | Kelvin Xu | ICML 2015 | [paper](https://arxiv.org/abs/1502.03044) | -
+24 | An Efficient Explorative Sampling Considering the Generative Boundaries of Deep Generative Neural Networks | Giyoung Jeon | AAAI 2020 | [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5852) | -
+25 | Generating Visual Explanations | Lisa Anne Hendricks | ECCV 2016 | [paper](https://arxiv.org/abs/1603.08507) | -
 
-23 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-24 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-25 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-26 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+
 27 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
 28 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
 29 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
 30 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+
+* | Neural Additive Models: Interpretable Machine Learning with Neural Nets | Rishabh Agarwal | 2020 | [paper](https://arxiv.org/abs/2004.13912) | -
+* | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Grégoire Montavon | 2017 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) | -
