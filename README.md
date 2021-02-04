@@ -22,4 +22,27 @@ num | title | author | year | paper rink | note rink
 num | title | author | year | paper rink | note rink
 ---- | ---- | ---- | ---- | ---- | ----
 1 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Gregoire Montavon | 2017 | [paper](https://arxiv.org/pdf/1512.02479.pdf) | -
-2 |  | | 2017 | [paper]() | -
+2 | iNNvestigate Neural Networks! | Maximilian Alber | JMLR 2019 | [paper](https://jmlr.org/papers/v20/18-540.html) | -
+3 | Towards better understanding of gradient-based attribution methods for Deep Neural Networks | Marco Ancona | ICLR 2018 | [paper](https://openreview.net/forum?id=Sy21R9JAW) | -
+4 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+5 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+6 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+7 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+8 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+9 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+10 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+11 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+12 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+13 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+14 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+15 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+16 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+17 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+18 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+19 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+20 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+21 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+22 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+23 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+24 | iNNvestig | Maximilian | JMLR 2019 | [paper](https) | -
+25 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
