@@ -37,7 +37,18 @@ num | title | author | year | paper rink | note rink
 14 | Uncertainty-Aware Attention for Reliable Interpretation and Prediction | Jay Heo | NIPS 2018 | [paper](https://arxiv.org/abs/1805.09653) | -
 15 | Interpretable basis decomposition for visual explanation | Bolei Zhou | ECCV 2018 | [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.html) | -
 16 | Towards Automatic Concept-based Explanations | Amirata Ghorbani | NIPS 2019 | [paper](https://arxiv.org/abs/1902.03129) | -
+17 | Visualizing and Measuring the Geometry of BERT | Andy Coenen | NIPS 2019 | [paper](https://arxiv.org/abs/1906.02715) | -
+18 | Poincaré Embeddings for Learning Hierarchical Representations | Maximillian Nickel  | NIPS 2017 | [paper](https://arxiv.org/abs/1705.08039) | -
+19 | Visualizing and understanding convolutional networks | Matthew D Zeiler | ECCV 2014 | [paper](https://arxiv.org/abs/1311.2901) | -
+20 | Cost-Effective Interactive Attention Learning with Neural Attention Processes | Jay Heo | ICML 2020 | [paper](https://arxiv.org/abs/2006.05419) | -
+21 | Neural Machine Translation by Jointly Learning to Align and Translate | Dzmitry Bahdanau | ICLR 2015 | [paper](https://arxiv.org/abs/1409.0473) | -
+22 | Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning | Yarin Gal | ICML 2016 | [paper](https://arxiv.org/abs/1506.02142) | -
 
-
-17 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
-18 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+23 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+24 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+25 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+26 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+27 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+28 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+29 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
+30 | iNNvestigat | Maximilian | JMLR 2019 | [paper](https) | -
