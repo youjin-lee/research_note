@@ -14,6 +14,7 @@ num | title | author | year | paper rink | note rink
 5 | Examples are not Enough, Learn to Criticize!Criticism for Interpretability | Been Kim | NIPS2016 | [MMD](https://beenkim.github.io/papers/KIM2016NIPS_MMD.pdf) | [Note](https://drive.google.com/file/d/1guMTtrhLF8H6iLMVZjUJ9i_MC7Wn7Ugw/view?usp=sharing)
 6 | Relative Attributing Propagation:Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks | Woo-Jeoung Nam | AAAI2020 | [RAP](https://arxiv.org/pdf/1904.00605.pdf) | [Note](https://drive.google.com/file/d/16BTSaOOZF1RgpSyLs6Cy--Flh8sE0qQM/view?usp=sharing)
 7 | Learning how to explain neural networks: PatternNet and PatternAttribution | Pieter-Jan Kindermans | 2017 | [paper](https://arxiv.org/pdf/1705.05598.pdf) | [Note](https://drive.google.com/file/d/1AH48eO8hOZOoKYAd_cnxJDHHaWjmql9_/view?usp=sharing)
+8 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Grégoire Montavon | 2017 | 572 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) | -
 
 
 ----------
@@ -48,7 +49,7 @@ num | title | author | year | citation | paper rink | note rink
 25 | Generating Visual Explanations | Lisa Anne Hendricks | ECCV 2016 | 364 | [paper](https://arxiv.org/abs/1603.08507) | -
 26 | Visualizing and Understanding Atari Agents | Samuel Greydanus | PMLR(proceeding ICML) 2018 | 116 | [paper](http://proceedings.mlr.press/v80/greydanus18a.html) | -
 27 | Neural Additive Models: Interpretable Machine Learning with Neural Nets | Rishabh Agarwal | 2020 | 17 | [paper](https://arxiv.org/abs/2004.13912) | -
-28 | Explaining NonLinear Classification Decisions with Deep Taylor Decomposition | Grégoire Montavon | 2017 | 572 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320316303582) | -
+
 
 
 
